@@ -21,7 +21,7 @@ I am Apar Solanki , currently pursuing my B.Tech degree in Information Technolog
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/Apar#6492)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/av_solanki210/)](https://www.instagram.com/av_solanki210/)
 
-[![Apar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=apar1223&theme=xcode)](https://github.com/apar1223)
+[![Apar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asv210&theme=xcode)](https://github.com/asv210)
 
 ## 👨🏻‍💻 Coding Profiles
 
