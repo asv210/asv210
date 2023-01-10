@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Apar
+- 👋 Hi, I’m Apar Solanki
 - 👀 I’m interested in technology and learning new technical skills.
 - 🌱 I’m currently learning flutter ,backend web development and improving my competitive programming.
 - 💞️ I’m looking to collaborate on competitive programming
