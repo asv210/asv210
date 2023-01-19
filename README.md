@@ -63,14 +63,14 @@ I am Apar Solanki , currently pursuing my B.Tech degree in Information Technolog
 
 ## 📈 &nbsp;Some Github Stats ##
 
-<table>
+<!-- <table>
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=asv210&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asv210&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
-</table>
+</table> -->
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asv210&theme=tokyonight" />
 </p>
