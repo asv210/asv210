@@ -66,8 +66,8 @@ I am Apar Solanki , currently pursuing my B.Tech degree in Information Technolog
 <!-- <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=asv210&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asv210&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=asv210&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=asv210&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table> -->
