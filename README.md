@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Apar Solanki
 - 👀 I’m interested in technology and learning new technical skills.
-- 🌱 I’m currently learning flutter ,backend web development and improving my competitive programming.
+- 🌱 I’m currently improving my competitive programming.
 - 💞️ I’m looking to collaborate on competitive programming
-
+- I'm MERN full stack developer otherthan that i do coding in c++ and also advance and core java.
+- Good grip in OS , DBMS , CCN , OOP concepts.
+- Excellent in problem solving at various platforms like leetcode , codechef and hackerrank.
+- Otherthan technical knowledge i am also good at building network and lead the team as i have participated in 5+ hackathons and won in 3+ out of them at various levels
 
 <!---
 apar1223/apar1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
