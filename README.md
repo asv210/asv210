@@ -1,30 +1,38 @@
-- 👋 Hi, I’m Apar Solanki
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Apar! Great to see you here!</b>
+<br>
+I am Apar Solanki , currently pursuing my B.Tech degree in Information Technology from [Dharmsinh Desai University](https://www.ddu.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+<br>
 - 👀 I’m interested in technology and learning new technical skills.
+<br>
 - 🌱 I’m currently improving my competitive programming.
+<br>
 - 💞️ I’m looking to collaborate on competitive programming
+<br>
 - I'm MERN full stack developer otherthan that i do coding in c++ and also advance and core java.
+<br>
 - Good grip in OS , DBMS , CCN , OOP concepts.
+<br>
 - Excellent in problem solving at various platforms like leetcode , codechef and hackerrank.
+<br>
 - Otherthan technical knowledge i am also good at building network and lead the team as i have participated in 5+ hackathons and won in 3+ out of them at various levels
+<br>
+<br>
 
 <!---
 apar1223/apar1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Apar! Great to see you here!</b>
-<br>
 
-I am Apar Solanki , currently pursuing my B.Tech degree in Information Technology from [Dharmsinh Desai University](https://www.ddu.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-<br>
+
+
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solankiapar12@gmail.com)](mailto:solankiapar12@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apar-solanki-669b731bb/)](https://www.linkedin.com/in/apar-solanki-669b731bb/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/apar_159)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/a_s_21_0)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/Apar#6492)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/av_solanki210/)](https://www.instagram.com/av_solanki210/)
 
-[![Apar's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asv210&theme=xcode)](https://github.com/asv210)
+[![Apar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asv210&theme=react-dark)](https://github.com/asv210)
 
 ## 👨🏻‍💻 Coding Profiles
 
@@ -66,14 +74,16 @@ I am Apar Solanki , currently pursuing my B.Tech degree in Information Technolog
 
 ## 📈 &nbsp;Some Github Stats ##
 
-<!-- <table>
+<table>
 <tr>
 <td>
-<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=asv210&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=asv210&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=asv210&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asv210&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
-</table> -->
+</table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asv210&theme=tokyonight" />
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=asv210&style=flat-square&color=blue)
